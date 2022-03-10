@@ -87,4 +87,4 @@ MQTIZER
 
 ![MQTIZER](https://user-images.githubusercontent.com/86609798/155202033-81133afc-1a04-41a9-947c-61e428a7fbc5.jpg)
 
-Note: in the above mentioned functions you need to change the IP address with your own IP address and the API KEY of the IFTTT function with the APY KEY you will find in Settings after you create your own function.
+Note: in the above mentioned functions you need to change the IP address with your own IP address and the API KEY of the IFTTT function with the APY KEY you will find in settings after you create your own function.
